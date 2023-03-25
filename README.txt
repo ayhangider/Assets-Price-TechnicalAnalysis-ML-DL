@@ -1,5 +1,5 @@
 
-Tried to understand which technical analysis variables, are more important about crypto currency prices
+Tried to understand which technical analysis variables are more important about crypto currency prices
 in short and long intervals.
 
 The CryptoDataCollector class downloads the current prices for ticker. After that, it calculates the 
